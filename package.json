@@ -1,0 +1,13 @@
+{
+  "name": "course-assets",
+  "version": "1.0.0",
+  "description": "JumpX 静态资源库与可视化中台",
+  "main": "build-gallery.js",
+  "scripts": {
+    "build": "node build-gallery.js",
+    "dev": "node build-gallery.js && npx serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
